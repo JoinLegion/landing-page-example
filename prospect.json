@@ -1,0 +1,9 @@
+{
+  "firstName": "Jordan",
+  "company": "Northline Manufacturing",
+  "asset": "ops benchmark",
+  "lookalike": "Northline Ops",
+  "outcome": "cut booked meetings from 11 days to 3",
+  "slug": "northline-jordan",
+  "queryExample": "?first=Jordan&company=Northline%20Manufacturing&asset=ops%20benchmark&lookalike=Northline%20Ops&outcome=cut%20booked%20meetings%20from%2011%20days%20to%203&p=northline-jordan"
+}
